@@ -1,3 +1,0 @@
-- Bootstrap (IE10 supports Bootstrap 4)
-- jQuery 3.3.1 (IE 9+)
-

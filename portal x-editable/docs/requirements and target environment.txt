@@ -1,3 +1,11 @@
+This project uses:
+- Bootstrap 3
+- jQuery 3.3.1
+- popper.js 1.12.9
+- tooltip.js 1.1.7
+
+Target:
+
 - Windows 7
 - Internet Explorer 10
 - Varying screen resolutions, rotations and desktop expansion(s).
